@@ -1,0 +1,39 @@
+        Sample.Name,Group,      Mg,      Al,      K,      Ca,      Sc,      Ti,      Mn,      Fe
+R1 H2 PMC     : 1  ,bhb:13  ,Min.   :    4  ,Min.   : 8.6  ,Min.   :   85  ,Min.   :   28  ,Min.   :0.1900  ,Min.   : 0.230  ,Min.   :   0.36  ,Min.   : 35.0  
+R1 H3 BHBC/M/1: 1  ,mb :10  ,1st Qu.:19000  ,1st Qu.:25.0  ,1st Qu.:16000  ,1st Qu.:21500  ,1st Qu.:0.6475  ,1st Qu.: 4.725  ,1st Qu.: 240.00  ,1st Qu.:385.0  
+R1 H3 PMC/M/1 : 1  ,nth: 9  ,Median :26500  ,Median :29.0  ,Median :19500  ,Median :35000  ,Median :0.7300  ,Median : 7.100  ,Median : 315.00  ,Median :435.0  
+R1 H4 BHB2/M  : 1  ,pm :24  ,Mean   :23791  ,Mean   :32.6  ,Mean   :18896  ,Mean   :36426  ,Mean   :0.6593  ,Mean   : 6.364  ,Mean   : 399.67  ,Mean   :406.2  
+R1 H4 BHB5/M  : 1  ,NA,3rd Qu.:30250  ,3rd Qu.:37.5  ,3rd Qu.:27250  ,3rd Qu.:56500  ,3rd Qu.:0.7825  ,3rd Qu.: 8.500  ,3rd Qu.: 440.00  ,3rd Qu.:532.5  
+R1 H4 PM2/M   : 1  ,NA,Max.   :56000  ,Max.   :83.0  ,Max.   :36000  ,Max.   :81000  ,Max.   :1.0000  ,Max.   :13.000  ,Max.   :1200.00  ,Max.   :640.0  
+,,,,,,,,,
+        Sample.Name,Group,      Ni,      Cu,      Zn,      Ga,      Ge,      Se,      Br,      Rb
+R1 H2 PMC     : 1  ,bhb:13  ,Min.   : 0.530  ,Min.   :  1.00  ,Min.   :   2.6  ,Min.   : 0.040  ,Min.   :0.0580  ,Min.   : 1.400  ,Min.   : 6.40  ,Min.   :  0.040  
+R1 H3 BHBC/M/1: 1  ,mb :10  ,1st Qu.: 1.775  ,1st Qu.: 33.00  ,1st Qu.: 277.5  ,1st Qu.: 1.275  ,1st Qu.:0.3025  ,1st Qu.: 3.875  ,1st Qu.:21.00  ,1st Qu.:  9.225  
+R1 H3 PMC/M/1 : 1  ,nth: 9  ,Median : 2.100  ,Median : 44.00  ,Median : 380.0  ,Median : 1.900  ,Median :0.4550  ,Median : 5.800  ,Median :25.50  ,Median : 35.000  
+R1 H4 BHB2/M  : 1  ,pm :24  ,Mean   : 2.259  ,Mean   : 44.18  ,Mean   : 523.1  ,Mean   : 3.935  ,Mean   :0.4478  ,Mean   : 5.752  ,Mean   :27.29  ,Mean   : 50.182  
+R1 H4 BHB5/M  : 1  ,NA,3rd Qu.: 2.700  ,3rd Qu.: 51.25  ,3rd Qu.: 512.5  ,3rd Qu.: 3.275  ,3rd Qu.:0.5975  ,3rd Qu.: 7.300  ,3rd Qu.:33.00  ,3rd Qu.: 86.500  
+R1 H4 PM2/M   : 1  ,NA,Max.   :10.000  ,Max.   :240.00  ,Max.   :1900.0  ,Max.   :15.000  ,Max.   :1.2000  ,Max.   :14.000  ,Max.   :63.00  ,Max.   :130.000  
+,,,,,,,,,
+        Sample.Name,Group,      Sr,      Y,      Mo,      Pd,      I,      Ba,      La,      Ce
+R1 H2 PMC     : 1  ,bhb:13  ,Min.   :  0.1  ,Min.   :0.01100  ,Min.   : 0.072  ,Min.   :0.00000  ,Min.   : 0.420  ,Min.   :  0.37  ,Min.   :0.00340  ,Min.   :0.0230  
+R1 H3 BHBC/M/1: 1  ,mb :10  ,1st Qu.:217.5  ,1st Qu.:0.04300  ,1st Qu.: 0.585  ,1st Qu.:0.05175  ,1st Qu.: 6.300  ,1st Qu.: 58.25  ,1st Qu.:0.07400  ,1st Qu.:0.0865  
+R1 H3 PMC/M/1 : 1  ,nth: 9  ,Median :340.0  ,Median :0.06100  ,Median : 1.950  ,Median :0.10500  ,Median : 9.850  ,Median : 79.00  ,Median :0.09400  ,Median :0.1100  
+R1 H4 BHB2/M  : 1  ,pm :24  ,Mean   :380.7  ,Mean   :0.06032  ,Mean   : 3.438  ,Mean   :0.12330  ,Mean   : 9.037  ,Mean   :161.84  ,Mean   :0.08339  ,Mean   :0.1123  
+R1 H4 BHB5/M  : 1  ,NA,3rd Qu.:557.5  ,3rd Qu.:0.08425  ,3rd Qu.: 5.500  ,3rd Qu.:0.18500  ,3rd Qu.:12.250  ,3rd Qu.:130.00  ,3rd Qu.:0.10250  ,3rd Qu.:0.1400  
+R1 H4 PM2/M   : 1  ,NA,Max.   :910.0  ,Max.   :0.11000  ,Max.   :11.000  ,Max.   :0.32000  ,Max.   :20.000  ,Max.   :580.00  ,Max.   :0.22000  ,Max.   :0.3200  
+,,,,,,,,,
+        Sample.Name,Group,      Pr,      Nd,      Sm,      Eu,      Gd,      Tb,      Dy,
+R1 H2 PMC     : 1  ,bhb:13  ,Min.   :0.00100  ,Min.   :0.00280  ,Min.   :0.00480  ,Min.   :0.00120  ,Min.   :0.00450  ,Min.   :0.000700  ,Min.   :0.00340  ,
+R1 H3 BHBC/M/1: 1  ,mb :10  ,1st Qu.:0.01175  ,1st Qu.:0.04575  ,1st Qu.:0.02900  ,1st Qu.:0.01300  ,1st Qu.:0.02700  ,1st Qu.:0.004075  ,1st Qu.:0.01875  ,
+R1 H3 PMC/M/1 : 1  ,nth: 9  ,Median :0.01700  ,Median :0.06350  ,Median :0.04200  ,Median :0.01900  ,Median :0.04300  ,Median :0.006150  ,Median :0.02900  ,
+R1 H4 BHB2/M  : 1  ,pm :24  ,Mean   :0.01507  ,Mean   :0.05834  ,Mean   :0.03848  ,Mean   :0.02252  ,Mean   :0.03891  ,Mean   :0.005698  ,Mean   :0.02739  ,
+R1 H4 BHB5/M  : 1  ,NA,3rd Qu.:0.02000  ,3rd Qu.:0.08050  ,3rd Qu.:0.05225  ,3rd Qu.:0.02825  ,3rd Qu.:0.05125  ,3rd Qu.:0.007525  ,3rd Qu.:0.03725  ,
+R1 H4 PM2/M   : 1  ,NA,Max.   :0.03100  ,Max.   :0.10000  ,Max.   :0.07200  ,Max.   :0.06300  ,Max.   :0.08600  ,Max.   :0.010000  ,Max.   :0.05100  ,
+,,,,,,,,,
+        Sample.Name,Group,      Ho,      Er,      Tm,      Yb,      Lu,      Ta,      Th,
+R1 H2 PMC     : 1  ,bhb:13  ,Min.   :0.00100  ,Min.   :0.00300  ,Min.   :0.000900  ,Min.   :0.00540  ,Min.   :0.001000  ,Min.   :0.000000  ,Min.   :0.00000  ,
+R1 H3 BHBC/M/1: 1  ,mb :10  ,1st Qu.:0.00645  ,1st Qu.:0.01500  ,1st Qu.:0.004025  ,1st Qu.:0.02100  ,1st Qu.:0.005550  ,1st Qu.:0.001850  ,1st Qu.:0.01045  ,
+R1 H3 PMC/M/1 : 1  ,nth: 9  ,Median :0.00790  ,Median :0.02050  ,Median :0.006350  ,Median :0.02950  ,Median :0.007550  ,Median :0.005700  ,Median :0.01750  ,
+R1 H4 BHB2/M  : 1  ,pm :24  ,Mean   :0.00738  ,Mean   :0.01954  ,Mean   :0.005989  ,Mean   :0.03012  ,Mean   :0.007039  ,Mean   :0.006700  ,Mean   :0.02094  ,
+R1 H4 BHB5/M  : 1  ,NA,3rd Qu.:0.00945  ,3rd Qu.:0.02625  ,3rd Qu.:0.008025  ,3rd Qu.:0.03925  ,3rd Qu.:0.008775  ,3rd Qu.:0.008975  ,3rd Qu.:0.03100  ,
+R1 H4 PM2/M   : 1  ,NA,Max.   :0.01400  ,Max.   :0.03900  ,Max.   :0.011000  ,Max.   :0.06000  ,Max.   :0.016000  ,Max.   :0.054000  ,Max.   :0.07000  ,
